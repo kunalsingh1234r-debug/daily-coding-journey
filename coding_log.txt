@@ -1,0 +1,5 @@
+Day 1: Setup and GitHub workflow
+Day 2: Control flow and loops
+Day 3: Functions and list statistics
+Day 4: Dictionaries and frequency counting
+Day 5: File I/O and exception handling
