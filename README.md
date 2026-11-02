@@ -17,9 +17,9 @@ Welcome to my daily coding log! This repository tracks my consistency, problem-s
 |:---:|:---|:---|:---:|
 | 01 | Setup & First Program | Git workflow, Python strings, basic output | ✅ Done |
 | 02 | Logic & Control Flow | Conditionals (`if/else`), `for` loops, accumulators | ✅ Done |
-| 03 | Loops & Logic Practice | Problem-solving, input handling, iteration | ⏳ In Progress |
-| 04 | Functions & Modular Code | Defining functions, return values, scopes | ⏳ Planned |
-| 05 | Data Structures | Lists, dictionaries, tuples | ⏳ Planned |
+| 03 | Loops & Logic Practice | Problem-solving, input handling, iteration | ✅ Done |
+| 04 | Functions & Modular Code | Defining functions, return values, scopes | ✅ Done |
+| 05 | Data Structures | Lists, dictionaries, tuples | ✅ Done |
 
 ---
 
